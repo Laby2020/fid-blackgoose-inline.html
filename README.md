@@ -1,1 +1,1 @@
-# fid-blackgoose-inline.html
+# fid/blackgoose/inline.html
